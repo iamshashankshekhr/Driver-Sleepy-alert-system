@@ -255,17 +255,4 @@ python gui.py
 
 ---
 
-## Contact / Credits
 
-Project by: **Shashank Shekhar, Shobit, Mukul, Sresanth**
-For issues/PRs: open GitHub Issues in the repo.
-
----
-
-If you want, I can:
-
-* Generate a ready-to-upload `requirements.txt` and `arduino/sleepy_driver.ino` file for your repo.
-* Create a GitHub-ready release README with images and wiring diagrams embedded.
-* Produce a short `demo.sh` or Windows `run.bat` to automate env activation + run.
-
-Which one would you like next?
