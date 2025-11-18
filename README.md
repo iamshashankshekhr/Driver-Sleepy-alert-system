@@ -173,23 +173,9 @@ python gui.py
 
 ---
 
-## 7 — Uploading to GitHub
 
-```bash
-# in repo root
-git init
-git add .
-git commit -m "Initial commit: sleepy driver detection"
-git branch -M main
-git remote add origin https://github.com/<username>/sleepy-driver.git
-git push -u origin main
-```
 
-Add `.gitignore` (ignore `venv/`, `__pycache__/`, large media).
-
----
-
-## 8 — Troubleshooting & tips
+## 7 — Troubleshooting & tips
 
 ### Serial port busy error on mac (`Resource busy`)
 
@@ -231,7 +217,7 @@ Add `.gitignore` (ignore `venv/`, `__pycache__/`, large media).
 
 ---
 
-## 9 — Safety & best practices
+## 8 — Safety & best practices
 
 * Always disconnect power when re-wiring.
 * Do not power motor from laptop USB port directly.
